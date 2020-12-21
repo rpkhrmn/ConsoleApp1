@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int a = 2;
-            int c = 3;
+            int c =4;
             Console.WriteLine(a*c);
             Console.ReadLine();
         }
